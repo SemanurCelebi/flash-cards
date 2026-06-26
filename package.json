@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc -b && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "pinia": "^3.0.4",
@@ -24,6 +25,7 @@
     "tailwindcss": "^3.4.19",
     "typescript": "~6.0.2",
     "vite": "^8.0.12",
-    "vue-tsc": "^3.2.8"
+    "vue-tsc": "^3.2.8",
+    "gh-pages": "^5.0.0"
   }
 }

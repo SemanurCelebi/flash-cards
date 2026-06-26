@@ -1,6 +1,6 @@
 import { defineStore } from 'pinia'
 import { ref, computed } from 'vue'
-import type { Deck, DeckProgress } from '../types/flashcard'
+import { CardState, type Card, type Deck, type DeckProgress } from '../types/flashcard'
 import { localStorageUtils } from '../utils/localStorage'
 import { jsonImportUtils } from '../utils/jsonImport'
 import { pdfImportUtils } from '../utils/pdfImport'
@@ -49,7 +49,7 @@ export const useDecksStore = defineStore('decks', () => {
       id: cardId,
       front,
       back,
-      state: 0,
+      state: CardState.New,
       difficulty: 5,
       stability: 1,
       due: 0,
@@ -91,7 +91,7 @@ export const useDecksStore = defineStore('decks', () => {
         id: cardId,
         front: entry.front.trim(),
         back: entry.back.trim(),
-        state: 0,
+        state: CardState.New,
         difficulty: 5,
         stability: 1,
         due: 0,

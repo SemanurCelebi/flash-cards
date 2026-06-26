@@ -1,5 +1,3 @@
-import type { Card } from '../types/flashcard'
-
 export interface BulkCardEntry {
   front: string
   back: string
