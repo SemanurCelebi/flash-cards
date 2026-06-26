@@ -1,0 +1,261 @@
+{
+  "meta": {
+    "author": "Flash Cards",
+    "version": "1.0"
+  },
+  "decks": {
+    "nl-tr-beginner": {
+      "meta": {
+        "deckId": "nl-tr-beginner",
+        "deckName": "Dutch-Turkish Beginner",
+        "description": "Basic vocabulary for Dutch language learners",
+        "language": "nl-tr",
+        "createdAt": 1715970000000,
+        "updatedAt": 1715970000000,
+        "cardCount": 20
+      },
+      "cards": {
+        "1": {
+          "id": "1",
+          "front": "Hallo",
+          "back": "Merhaba",
+          "state": 0,
+          "difficulty": 5,
+          "stability": 1,
+          "due": 0,
+          "lapses": 0,
+          "reps": 0,
+          "factor": 2.5
+        },
+        "2": {
+          "id": "2",
+          "front": "Dank je",
+          "back": "Teşekkür ederim",
+          "state": 0,
+          "difficulty": 5,
+          "stability": 1,
+          "due": 0,
+          "lapses": 0,
+          "reps": 0,
+          "factor": 2.5
+        },
+        "3": {
+          "id": "3",
+          "front": "Ja",
+          "back": "Evet",
+          "state": 0,
+          "difficulty": 5,
+          "stability": 1,
+          "due": 0,
+          "lapses": 0,
+          "reps": 0,
+          "factor": 2.5
+        },
+        "4": {
+          "id": "4",
+          "front": "Nee",
+          "back": "Hayır",
+          "state": 0,
+          "difficulty": 5,
+          "stability": 1,
+          "due": 0,
+          "lapses": 0,
+          "reps": 0,
+          "factor": 2.5
+        },
+        "5": {
+          "id": "5",
+          "front": "Water",
+          "back": "Su",
+          "state": 0,
+          "difficulty": 5,
+          "stability": 1,
+          "due": 0,
+          "lapses": 0,
+          "reps": 0,
+          "factor": 2.5
+        },
+        "6": {
+          "id": "6",
+          "front": "Brood",
+          "back": "Ekmek",
+          "state": 0,
+          "difficulty": 5,
+          "stability": 1,
+          "due": 0,
+          "lapses": 0,
+          "reps": 0,
+          "factor": 2.5
+        },
+        "7": {
+          "id": "7",
+          "front": "Kaas",
+          "back": "Peynir",
+          "state": 0,
+          "difficulty": 5,
+          "stability": 1,
+          "due": 0,
+          "lapses": 0,
+          "reps": 0,
+          "factor": 2.5
+        },
+        "8": {
+          "id": "8",
+          "front": "Melk",
+          "back": "Süt",
+          "state": 0,
+          "difficulty": 5,
+          "stability": 1,
+          "due": 0,
+          "lapses": 0,
+          "reps": 0,
+          "factor": 2.5
+        },
+        "9": {
+          "id": "9",
+          "front": "Appel",
+          "back": "Elma",
+          "state": 0,
+          "difficulty": 5,
+          "stability": 1,
+          "due": 0,
+          "lapses": 0,
+          "reps": 0,
+          "factor": 2.5
+        },
+        "10": {
+          "id": "10",
+          "front": "Banaan",
+          "back": "Muz",
+          "state": 0,
+          "difficulty": 5,
+          "stability": 1,
+          "due": 0,
+          "lapses": 0,
+          "reps": 0,
+          "factor": 2.5
+        },
+        "11": {
+          "id": "11",
+          "front": "Goedemorgen",
+          "back": "Günaydın",
+          "state": 0,
+          "difficulty": 5,
+          "stability": 1,
+          "due": 0,
+          "lapses": 0,
+          "reps": 0,
+          "factor": 2.5
+        },
+        "12": {
+          "id": "12",
+          "front": "Goedenacht",
+          "back": "İyi geceler",
+          "state": 0,
+          "difficulty": 5,
+          "stability": 1,
+          "due": 0,
+          "lapses": 0,
+          "reps": 0,
+          "factor": 2.5
+        },
+        "13": {
+          "id": "13",
+          "front": "Hoe gaat het?",
+          "back": "Nasılsın?",
+          "state": 0,
+          "difficulty": 5,
+          "stability": 1,
+          "due": 0,
+          "lapses": 0,
+          "reps": 0,
+          "factor": 2.5
+        },
+        "14": {
+          "id": "14",
+          "front": "Prima",
+          "back": "Harika",
+          "state": 0,
+          "difficulty": 5,
+          "stability": 1,
+          "due": 0,
+          "lapses": 0,
+          "reps": 0,
+          "factor": 2.5
+        },
+        "15": {
+          "id": "15",
+          "front": "Tot ziens",
+          "back": "Hoşça kalın",
+          "state": 0,
+          "difficulty": 5,
+          "stability": 1,
+          "due": 0,
+          "lapses": 0,
+          "reps": 0,
+          "factor": 2.5
+        },
+        "16": {
+          "id": "16",
+          "front": "Kat",
+          "back": "Kedi",
+          "state": 0,
+          "difficulty": 5,
+          "stability": 1,
+          "due": 0,
+          "lapses": 0,
+          "reps": 0,
+          "factor": 2.5
+        },
+        "17": {
+          "id": "17",
+          "front": "Hond",
+          "back": "Köpek",
+          "state": 0,
+          "difficulty": 5,
+          "stability": 1,
+          "due": 0,
+          "lapses": 0,
+          "reps": 0,
+          "factor": 2.5
+        },
+        "18": {
+          "id": "18",
+          "front": "Vogel",
+          "back": "Kuş",
+          "state": 0,
+          "difficulty": 5,
+          "stability": 1,
+          "due": 0,
+          "lapses": 0,
+          "reps": 0,
+          "factor": 2.5
+        },
+        "19": {
+          "id": "19",
+          "front": "Rode",
+          "back": "Kırmızı",
+          "state": 0,
+          "difficulty": 5,
+          "stability": 1,
+          "due": 0,
+          "lapses": 0,
+          "reps": 0,
+          "factor": 2.5
+        },
+        "20": {
+          "id": "20",
+          "front": "Blauw",
+          "back": "Mavi",
+          "state": 0,
+          "difficulty": 5,
+          "stability": 1,
+          "due": 0,
+          "lapses": 0,
+          "reps": 0,
+          "factor": 2.5
+        }
+      }
+    }
+  }
+}

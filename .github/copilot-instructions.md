@@ -1,0 +1,6 @@
+- [ ] Use this project as a Vue 3 + TypeScript flash card web app.
+- [ ] The app should support Dutch-Turkish vocabulary decks via JSON import.
+- [ ] Keep the UI responsive and mobile-friendly.
+- [ ] Persist deck data and study sessions in localStorage.
+- [ ] Use Pinia for state management and Tailwind CSS for styling.
+- [ ] Do not add backend services unless explicitly requested.
